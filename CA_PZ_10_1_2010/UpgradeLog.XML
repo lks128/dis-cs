@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CA_PZ_10_1_2010">
+</Property><Property Name="Solution File" Value="C:\Users\Andrew\Documents\Visual Studio 2010\prog\CA_PZ_10_1_2010\CA_PZ_10_1_2010.sln">
+</Property><Property Name="Date" Value="Sunday, April 15, 2012">
+</Property><Property Name="Time" Value="12:14:56">
+</Property></Properties><Event ErrorLevel="0" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\CA_PZ_10_1.csproj" Description="Project file successfully backed up as C:\Users\Andrew\Documents\Visual Studio 2010\prog\CA_PZ_10_1_2010\Backup\CA_PZ_10_1.csproj">
+</Event><Event ErrorLevel="0" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\Program.cs" Description="File successfully backed up as C:\Users\Andrew\Documents\Visual Studio 2010\prog\CA_PZ_10_1_2010\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Andrew\Documents\Visual Studio 2010\prog\CA_PZ_10_1_2010\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\Вектор.cs" Description="File successfully backed up as C:\Users\Andrew\Documents\Visual Studio 2010\prog\CA_PZ_10_1_2010\Backup\Вектор.cs">
+</Event><Event ErrorLevel="0" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\CA_PZ_10_1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\CA_PZ_10_1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CA_PZ_10_1" Source="..\CA_PZ_10_1\CA_PZ_10_1\CA_PZ_10_1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
